@@ -1,0 +1,29 @@
+===================================================
+ ENLACE DEL REPOSITORIO — GA7-220501096-AA2-EV02
+===================================================
+
+Nombre del proyecto : Sistema de Gestión Cibercafé
+Evidencia           : GA7-220501096-AA2-EV02
+Programa            : Análisis y Desarrollo de Software — SENA
+
+---------------------------------------------------
+URL del repositorio (GitHub):
+https://github.com/outfyves/CibercafeApp
+---------------------------------------------------
+
+Instrucciones para publicar el repositorio:
+1. Crear cuenta en https://github.com si no la tiene
+2. Crear un nuevo repositorio llamado "CibercafeApp"
+3. Desde la carpeta raíz del proyecto ejecutar:
+
+   git init
+   git add .
+   git commit -m "GA7-220501096-AA2-EV02: CRUD Cibercafe con Servlets y JSP"
+   git branch -M main
+   git remote add origin https://github.com/[TU_USUARIO]/CibercafeApp.git
+   git push -u origin main
+
+4. Reemplazar [TU_USUARIO] por su nombre de usuario de GitHub
+5. Actualizar este archivo con la URL final del repositorio
+
+===================================================
