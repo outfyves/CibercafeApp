@@ -19,7 +19,7 @@
 ## 🔗 Repositorio Git
 
 > **URL del repositorio:**  
-> `https://github.com/[TU_USUARIO]/CibercafeApp`  
+> `https://github.com/outfyves/CibercafeApp`  
 > *(Reemplazar con la URL real luego de hacer push)*
 
 ---
