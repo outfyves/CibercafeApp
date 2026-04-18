@@ -20,7 +20,6 @@
 
 > **URL del repositorio:**  
 > `https://github.com/outfyves/CibercafeApp`  
-> *(Reemplazar con la URL real luego de hacer push)*
 
 ---
 
